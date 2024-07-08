@@ -1,6 +1,6 @@
-# Raika Comment Application
+# Comment Application
 
-The Raika Comment Application is a responsive, single-page application (SPA) I've developed using React. This application allows users to post comments, view a list of comments, and delete them. I've implemented a rate limiting feature to prevent spam and store all comments locally using `localStorage`.
+The Comment Application is a responsive, single-page application (SPA) I've developed using React. This application allows users to post comments, view a list of comments, and delete them. I've implemented a rate limiting feature to prevent spam and store all comments locally using `localStorage`.
 
 ## Project Setup
 
@@ -57,4 +57,4 @@ I visit `http://localhost:3000` to view the application.
 
 ---
 
-This document offers an updated overview of my setup and features for the Raika Comment Application. For more detailed information on component usage and development practices, individual component files and the React documentation can be consulted.
+This document offers an updated overview of my setup and features for the Comment Application. For more detailed information on component usage and development practices, individual component files and the React documentation can be consulted.
