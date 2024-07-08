@@ -57,7 +57,7 @@ const CommentForm: React.FC<Props> = ({ onAddComment }) => {
     };
 
     const handleUserLogin = (username: string, password: string) => {
-        if (username === 'raika' && password === 'raika123456') {
+        if (username === 'username' && password === 'password') {
             localStorage.setItem('isLoggedIn', 'true'); // Changes the login status to true
             setIsLoggedIn(true);// Updates the isLoggedIn status in state
             toast.success('You have successfully logged in.', {
